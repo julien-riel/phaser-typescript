@@ -1,6 +1,6 @@
 # Simple Phaser Typescript Development Example
 
-Develop phaser-ce games with typescript. This allow code completion with comments
+Develop phaser.io games with typescript
 
 ![screenshot](./doc/images/autocomplete.gif)
 
@@ -12,7 +12,7 @@ npm install -g typescript
 npm install -g http-server
 ```
 
-## Clone this repo
+## Clone this repo, install and start
 ```
 git clone https://github.com/julien-riel/phaser-typescript.git
 cd phaser-typescript
