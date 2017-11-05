@@ -1,0 +1,19 @@
+{
+  "name": "jeux-simone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "blockout.js",
+  "scripts": {
+    "start": "concurrently --kill-others \"http-server -c-1\" \"tsc -w\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phaser-ce": "^2.9.1",
+    "requirejs": "^2.3.5"
+  },
+  "devDependencies": {
+    "concurrently": "^3.5.0"
+  }
+}

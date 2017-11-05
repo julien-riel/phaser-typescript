@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+      "target": "es5",
+      "module": "amd",
+      "outDir": "js",
+      "sourceMap": true,
+      "watch": true
+  },
+  "files": [
+      "node_modules/phaser-ce/typescript/phaser.comments.d.ts",
+      "node_modules/phaser-ce/typescript/pixi.comments.d.ts"
+  ],
+  "include": [
+      "ts/**/*.ts"
+  ]
+}
