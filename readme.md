@@ -2,6 +2,8 @@
 
 Develop phaser-ce games with typescript. This allow code completion with comments
 
+![screenshot](./doc/images/autocomplete.gif)
+
 Module importation is made with RequireJs
 
 ## Install Global Dependencies
